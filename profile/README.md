@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://saloonik.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://saloonik.com/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://saloonik.com/logo-dark.svg">
       <img src="https://saloonik.com/logo-light.svg" alt="Saloonik" height="56">
     </picture>
   </a>
